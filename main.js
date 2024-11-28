@@ -4,6 +4,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+function preloadImages(images) {
+  for (let img in images) {
+    const preload = new Image();
+    preload.src = img;
+  }
+}
+
+preloadImages(settings.images);
+
+
 (function() {
 
 	"use strict";
