@@ -23,6 +23,31 @@ section, summary, time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
+
+
+
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: blue;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+}
+
+.button:hover {
+  background-color: darkblue;
+}
+
+
+
+
+
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
