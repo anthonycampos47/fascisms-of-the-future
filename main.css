@@ -42,7 +42,7 @@ section, summary, time, mark, audio, video {
 
 .button:hover {
    color: #ffffff;
-    background-color: #000000; 
+   background-color: #000000; 
 }
 
 
@@ -788,7 +788,7 @@ button,
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  background-color: #cdd2df;
+  background-color: #ECEDED;
   border-radius: 6px;
   border: 0;
   color: #000000 !important;
@@ -813,7 +813,7 @@ button,
   input[type="button"]:active,
   button:active,
   .button:active { 
-    background-color: #cdd2df; }
+    background-color: #ECEDED; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
