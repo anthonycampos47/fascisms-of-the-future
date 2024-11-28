@@ -27,10 +27,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
-.fadeIn {
-  --animate-duration: 4s;
-}
-
 body {
   line-height: 1; }
 
