@@ -143,6 +143,10 @@ body {
   }
 }
 
+footer {
+  background-color: transparent !important;
+}
+
 
 
 /* BG */
