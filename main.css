@@ -27,6 +27,7 @@ section, summary, time, mark, audio, video {
 	font-size: 5em; 
 	letter-spacing: 10px; 
 	border-right: 5px solid; 
+	
 	width: 100%;
 	white-space: nowrap; 
 	overflow: hidden; 
