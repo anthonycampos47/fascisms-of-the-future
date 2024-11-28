@@ -25,7 +25,27 @@ section, summary, time, mark, audio, video {
 
 
 
+.container11 {display: inline-block;}
 
+.typetext {
+	font-size: 5em; 
+	letter-spacing: 10px; 
+	border-right: 5px solid; 
+	width: 100%;
+	white-space: nowrap; 
+	overflow: hidden; 
+	animation:
+		typing 2s steps(18),
+		cursor .4s step-end infinite alternate; 
+}
+
+@keyframes cursor {
+	50% {border-color: transparant}
+}
+
+@keyframes typing {
+	from {width: 0}
+}
 
 .button {
   display: inline-block;
